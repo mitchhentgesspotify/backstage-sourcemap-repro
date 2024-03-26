@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@backstage/errors": "^1.2.4"
+  }
+}
+
